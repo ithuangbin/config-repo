@@ -1,7 +1,7 @@
 
 server:
   port: 1001
- security:
+security:
   basic:
     enabled: true
   user:
