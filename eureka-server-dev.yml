@@ -1,1 +1,9 @@
 
+server:
+  port: 1001
+ security:
+  basic:
+    enabled: true
+  user:
+    name: admin
+    password: 123456
